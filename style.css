@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  background-color: #000;
+}
+
+.bg_img {
+  position: fixed;
+  background-image: url(img/bg1_800.jpg);
+  filter: brightness(0.2);
+  background-size: cover;
+  background-position: right;
+  width: 100vw;
+  height: 100vh;
+}
+
+.seasons img {
+  filter: brightness(0.5);
+  transition: 1s;
+}
+
+.seasons img:hover {
+  filter: brightness(1);
+  transform: scale(1.2);
+  transition: 1s;
+}
+
+div {
+  scrollbar-width: none;
+}
+
+div.avatar {
+  position: absolute;
+  bottom: 3%;
+  left: 3%;
+}
+
+div.avatar img {
+  border: solid 3px black;
+}
+
+@media (min-width: 1024px) {
+  .bg_img {
+    background-image: url(img/bg1_1600.jpg);
+    height: 100vh;
+    filter: brightness(0.2);
+  }
+}
