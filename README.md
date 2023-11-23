@@ -1,18 +1,20 @@
-# My First Project in Bootstrap 5
+![project](/project.png)
 
-{PL}
+# Project in Bootstrap 5
 
-Wymyśliłem go i zrealizowałem jako ćwiczenie utrwalające wiedze z Bootstrap 5.
-Projekt jest prezentacją terapii zajęciowej prowadzonej dla pacjentów Hospicjum.
+I realized as an exercise to consolidate knowledge of Bootstrap 5.
 
-## Autor
-Link to project : [@artur-IT](https://github.com/artur-IT/Bootstrap-Project)
+The project is a presentation of occupational therapy conducted for Hospice patients.
 
+View the project here [Art of Therapy](https://artur-it.github.io/Bootstrap_Project/)
 
-## Cechy
+## Features
+
 - RWD
 - Mobile first
-
-## Optymalizacja
 - Lazy loading
 
+## 💡 Technologies
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-%237952B3)
